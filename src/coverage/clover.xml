@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1526198109806" clover="3.2.0">
+  <project timestamp="1526198109806" name="All files">
+    <metrics statements="12" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="4" elements="22" coveredelements="12" complexity="0" loc="12" ncloc="12" packages="1" files="1" classes="1">
+      <file name="App.js" path="/Users/rinae/Dev/practice/react/react-application-test-example/src/App.js">
+        <metrics statements="12" coveredstatements="8" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="4"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="35" count="0" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="43" count="1" type="stmt"/>
+        <line num="60" count="2" type="stmt"/>
+      </file>
+    </metrics>
+  </project>
+</coverage>
